@@ -62,16 +62,13 @@ global_settings:
      - ps_contactinfo
      - ps_searchbar
    to_enable:
-     - ps_socialfollow
      - ps_linklist
      - ps_advertising
      - ps_customeraccountlinks
      - ps_emailsubscription
      - ps_categoryproducts 
-     - blocktags 
      - blockwishlist
      - possearchproducts
-     - productcomments
      - posrotatorimg
      - posmegamenu
      - posvegamenu
@@ -79,15 +76,11 @@ global_settings:
      - posstaticblocks
      - posstaticfooter
      - postabcateslider
-     - possuggestcateproducts
      - posbestsellers
      - posfeaturedproducts
      - poslistcategories
      - posthemeoptions
      - poslogo
-     - posinstagramblock
-     - xipblog
-     - xipblogdisplayposts
   hooks:
     modules_to_hook:
       displayBannersequence:
