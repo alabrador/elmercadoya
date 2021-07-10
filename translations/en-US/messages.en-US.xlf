@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posbestsellers\views\templates\hook\posbestsellers.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="b3fd7a5dbaaafb14c54b17249ffb50ad">
+        <source>Awesome Shop</source>
+        <target>Awesome Shop</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posbestsellers\views\templates\hook\posbestsellers.tpl:17</note>
+      </trans-unit>
+      <trans-unit id="f7be84d6809317a6eb0ff3823a936800">
+        <source>No best sellers at this time</source>
+        <target>No best sellers at this time</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posbestsellers\views\templates\hook\posbestsellers.tpl:43</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\poslistcategories\views\templates\hook\list.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="814196c32531e51656e1acc11ffaca27">
+        <source>Items list</source>
+        <target>Items list</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\poslistcategories\views\templates\hook\list.tpl:25</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posslideshows\views\templates\hook\list.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="ef61fb324d729c341ea8ab9901e23566">
+        <source>Add new</source>
+        <target>Add new</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posslideshows\views\templates\hook\list.tpl:28</note>
+      </trans-unit>
+      <trans-unit id="7dce122004969d56ae2e0245cb754d35">
+        <source>Edit</source>
+        <target>Edit</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posslideshows\views\templates\hook\list.tpl:62</note>
+      </trans-unit>
+      <trans-unit id="f2a6c498fb90ee345d997f888fce3b18">
+        <source>Delete</source>
+        <target>Delete</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posslideshows\views\templates\hook\list.tpl:67</note>
+      </trans-unit>
+      <trans-unit id="c82324ebbcea34f55627a897b37190e3">
+        <source>Slides list</source>
+        <target>Slides list</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posslideshows\views\templates\hook\list.tpl:25</note>
+      </trans-unit>
+      <trans-unit id="379a88861412d686cfaf475c84a24920">
+        <source>Shared slide</source>
+        <target>Shared slide</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posslideshows\views\templates\hook\list.tpl:51</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\poslistcategories\views\templates\hook\poslistcategories.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="d8d7ad6abfd08c27baa8bedb78c72ddb">
+        <source>View All</source>
+        <target>View All</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\poslistcategories\views\templates\hook\poslistcategories.tpl:45</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\build_menu.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="e0d2f7838eebffb9aa11cdb87fad2b75">
+        <source>Submenu content</source>
+        <target>Submenu content</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\build_menu.tpl:27</note>
+      </trans-unit>
+      <trans-unit id="a70367aa7cb74e510f4f9413ccf059d3">
+        <source>Row</source>
+        <target>Row</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\build_menu.tpl:38</note>
+      </trans-unit>
+      <trans-unit id="4dbab9feedb1a717f2c0879932c4db10">
+        <source>Add Column</source>
+        <target>Add Column</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\build_menu.tpl:51</note>
+      </trans-unit>
+      <trans-unit id="bae5906bfb7292324d4893e26a68b23e">
+        <source>Delete Colum</source>
+        <target>Delete Colum</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\build_menu.tpl:61</note>
+      </trans-unit>
+      <trans-unit id="23bd150cc37fb504a0ced157e441cfda">
+        <source>Edit Column</source>
+        <target>Edit Column</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\build_menu.tpl:66</note>
+      </trans-unit>
+      <trans-unit id="20771f8851efd2ac7510f7ecba19bec6">
+        <source>Add new Item</source>
+        <target>Add new Item</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\build_menu.tpl:71</note>
+      </trans-unit>
+      <trans-unit id="95a480afa92aff31772402b042f11491">
+        <source>Edit Item</source>
+        <target>Edit Item</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\build_menu.tpl:86</note>
+      </trans-unit>
+      <trans-unit id="499824e5fde79fb2a8b57f602fac72c4">
+        <source>delete Item</source>
+        <target>delete Item</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\build_menu.tpl:89</note>
+      </trans-unit>
+      <trans-unit id="91a9284418a5eb82671d844e6615d2b5">
+        <source>Item saved</source>
+        <target>Item saved</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\build_menu.tpl:122</note>
+      </trans-unit>
+      <trans-unit id="f6fefe344352f0815e6f53ad8f97ae76">
+        <source>Item deleted</source>
+        <target>Item deleted</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\build_menu.tpl:123</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\list.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="a5e99b6ec9a5c66cd5daa527719e6c2a">
+        <source>Menu List</source>
+        <target>Menu List</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\list.tpl:27</note>
+      </trans-unit>
+      <trans-unit id="4cdc1e3ac759b928e506d8c8d59662ee">
+        <source>Build SubMenu</source>
+        <target>Build SubMenu</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\list.tpl:50</note>
+      </trans-unit>
+      <trans-unit id="ab03c8973cc7a3314e8ce68b5d88bcd9">
+        <source>Add new item</source>
+        <target>Add new item</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\list.tpl:71</note>
+      </trans-unit>
+      <trans-unit id="34a658662bdb921dc61be175f651ff88">
+        <source>Menu settings</source>
+        <target>Menu settings</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\list.tpl:101</note>
+      </trans-unit>
+      <trans-unit id="40ddfa2bdbdd1717792ba14aaef4e17b">
+        <source>Sticky menu</source>
+        <target>Sticky menu</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\list.tpl:142</note>
+      </trans-unit>
+      <trans-unit id="4b57993969ef756fdbe8835ff09d4c7c">
+        <source>Center main menu</source>
+        <target>Center main menu</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\list.tpl:154</note>
+      </trans-unit>
+      <trans-unit id="ec0b14b1ef470b1589883e5ae7ff3994">
+        <source>Submenu animation</source>
+        <target>Submenu animation</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\list.tpl:166</note>
+      </trans-unit>
+      <trans-unit id="42e6feb7f76e910efcda54034ecc83ce">
+        <source>Custom CSS</source>
+        <target>Custom CSS</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\list.tpl:178</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_submenu_config.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="138601ff53566fa4484c49830e45f7c7">
+        <source>Background type</source>
+        <target>Background type</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_submenu_config.tpl:34</note>
+      </trans-unit>
+      <trans-unit id="368d9ac76af05f714092bc808a426bfc">
+        <source>Background color</source>
+        <target>Background color</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_submenu_config.tpl:44</note>
+      </trans-unit>
+      <trans-unit id="74820d3e6fe1a586cd2600e0fcdc70bd">
+        <source>Background repeat</source>
+        <target>Background repeat</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_submenu_config.tpl:62</note>
+      </trans-unit>
+      <trans-unit id="334c4a4c42fdb79d7ebc3e73b517e6f8">
+        <source>none</source>
+        <target>none</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_submenu_config.tpl:170</note>
+      </trans-unit>
+      <trans-unit id="6e5f5bbf51336918feac69b89e96f6e7">
+        <source>UPPERCASE</source>
+        <target>UPPERCASE</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_submenu_config.tpl:171</note>
+      </trans-unit>
+      <trans-unit id="97a62b5e6d3cae255036b6bc37b87b44">
+        <source>Capitalize</source>
+        <target>Capitalize</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_submenu_config.tpl:172</note>
+      </trans-unit>
+      <trans-unit id="c10444da8574670b8bee096833c5e871">
+        <source>Submenu settings</source>
+        <target>Submenu settings</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_submenu_config.tpl:3</note>
+      </trans-unit>
+      <trans-unit id="ae5ae7e405fb51cf9e8be31a3cc5f370">
+        <source>Submenu width</source>
+        <target>Submenu width</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_submenu_config.tpl:9</note>
+      </trans-unit>
+      <trans-unit id="94af0bd346f7900797e8ab43f9922e39">
+        <source>Background position</source>
+        <target>Background position</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_submenu_config.tpl:73</note>
+      </trans-unit>
+      <trans-unit id="3616103efe9ddccc2b0e0c216f036a17">
+        <source>Title color</source>
+        <target>Title color</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_submenu_config.tpl:89</note>
+      </trans-unit>
+      <trans-unit id="95aed108f4994ab091bce29bf889529d">
+        <source>Title color hover</source>
+        <target>Title color hover</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_submenu_config.tpl:97</note>
+      </trans-unit>
+      <trans-unit id="6a6563a8cbd964dffc836ccf9a60e8e5">
+        <source>Title tont size</source>
+        <target>Title tont size</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_submenu_config.tpl:105</note>
+      </trans-unit>
+      <trans-unit id="1445e5c907bbbb04b522e070d013ff33">
+        <source>Title line height</source>
+        <target>Title line height</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_submenu_config.tpl:114</note>
+      </trans-unit>
+      <trans-unit id="f55774be7ce952d448d0f822237c057e">
+        <source>Title text transform</source>
+        <target>Title text transform</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_submenu_config.tpl:123</note>
+      </trans-unit>
+      <trans-unit id="8e269f534167fa721659bfb41d6a78b6">
+        <source>Link color</source>
+        <target>Link color</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_submenu_config.tpl:133</note>
+      </trans-unit>
+      <trans-unit id="fda8fa42508d811d75f42ba8ba913bb6">
+        <source>Link color hover</source>
+        <target>Link color hover</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_submenu_config.tpl:141</note>
+      </trans-unit>
+      <trans-unit id="61de9d717559cd6d30d0208e413c6cba">
+        <source>Link font size</source>
+        <target>Link font size</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_submenu_config.tpl:149</note>
+      </trans-unit>
+      <trans-unit id="3aec0d1fe603561ed499daf3882c1c20">
+        <source>Link line height</source>
+        <target>Link line height</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_submenu_config.tpl:158</note>
+      </trans-unit>
+      <trans-unit id="721237a8d08794e9d200c029fd901f15">
+        <source>Link text transform</source>
+        <target>Link text transform</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_submenu_config.tpl:167</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_item.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="14048e0cc272bd8e68ceb86154de892a">
+        <source>Image source</source>
+        <target>Image source</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_item.tpl:169</note>
+      </trans-unit>
+      <trans-unit id="b51000000ff730e7cacd10980186c1a4">
+        <source>Select image</source>
+        <target>Select image</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_item.tpl:178</note>
+      </trans-unit>
+      <trans-unit id="b78a3223503896721cca1303f776159b">
+        <source>Title</source>
+        <target>Title</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_item.tpl:63</note>
+      </trans-unit>
+      <trans-unit id="0da89ee79009e87aead2eb080363b016">
+        <source>PrestaShop Link</source>
+        <target>PrestaShop Link</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_item.tpl:37</note>
+      </trans-unit>
+      <trans-unit id="a8bddd1e894fd804fba86c3f1e7402d0">
+        <source>Custom Link</source>
+        <target>Custom Link</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_item.tpl:38</note>
+      </trans-unit>
+      <trans-unit id="bafd7322c6e97d25b6299b5d6fe8920b">
+        <source>No</source>
+        <target>No</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_item.tpl:233</note>
+      </trans-unit>
+      <trans-unit id="66b7ff893822e8f721782032bfc304a1">
+        <source>Active in mobile</source>
+        <target>Active in mobile</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_item.tpl:229</note>
+      </trans-unit>
+      <trans-unit id="93cba07454f06a4a960172bbd6e2a435">
+        <source>Yes</source>
+        <target>Yes</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_item.tpl:232</note>
+      </trans-unit>
+      <trans-unit id="c587124fe1c2fc94b94990f3f2f881e5">
+        <source>Submenu item configuration</source>
+        <target>Submenu item configuration</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_item.tpl:26</note>
+      </trans-unit>
+      <trans-unit id="f5aabf56fb4aa6b16da34f62ffc66136">
+        <source>Type Item</source>
+        <target>Type Item</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_item.tpl:33</note>
+      </trans-unit>
+      <trans-unit id="98f451668c1ef050b418be7c9f2cb203">
+        <source>Category tree</source>
+        <target>Category tree</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_item.tpl:36</note>
+      </trans-unit>
+      <trans-unit id="deb10517653c255364175796ace3553f">
+        <source>Product</source>
+        <target>Product</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_item.tpl:122</note>
+      </trans-unit>
+      <trans-unit id="137d2d6f01b4762e90938fbe1c053a74">
+        <source>Banner image</source>
+        <target>Banner image</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_item.tpl:40</note>
+      </trans-unit>
+      <trans-unit id="bf0c66e40616e033f63d0153ad48b256">
+        <source>HTML Block</source>
+        <target>HTML Block</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_item.tpl:41</note>
+      </trans-unit>
+      <trans-unit id="1ea85216d3b2a96757fedc925c8e22bb">
+        <source>Manufacturer logo</source>
+        <target>Manufacturer logo</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_item.tpl:42</note>
+      </trans-unit>
+      <trans-unit id="b02d8b2c78dfd6cc791eff6f283e5008">
+        <source>Select a category</source>
+        <target>Select a category</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_item.tpl:47</note>
+      </trans-unit>
+      <trans-unit id="4373ea3310e649d5621a403e67217844">
+        <source>Prestashop link</source>
+        <target>Prestashop link</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_item.tpl:55</note>
+      </trans-unit>
+      <trans-unit id="e6b391a8d2c4d45902a23a8b6585703d">
+        <source>URL</source>
+        <target>URL</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_item.tpl:93</note>
+      </trans-unit>
+      <trans-unit id="c5f17f7ca53d9225478fdbfd0a5583ac">
+        <source>Search a product</source>
+        <target>Search a product</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_item.tpl:124</note>
+      </trans-unit>
+      <trans-unit id="6e31429bb15b26679680f1da68defb3c">
+        <source>Select manufacturer</source>
+        <target>Select manufacturer</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_item.tpl:130</note>
+      </trans-unit>
+      <trans-unit id="eb6a2e9f2c6350d5cd5ef364e8076218">
+        <source>HTML content</source>
+        <target>HTML content</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_item.tpl:138</note>
+      </trans-unit>
+      <trans-unit id="9ce38727cff004a058021a6c7351a74a">
+        <source>Image link</source>
+        <target>Image link</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_item.tpl:200</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_item.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="87fb13ce6d2e3e222d3c4f3ff30fa0a1">
+        <source>Menu Item</source>
+        <target>Menu Item</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_item.tpl:27</note>
+      </trans-unit>
+      <trans-unit id="ae1ca42050a83e3f088db858148cba66">
+        <source>Sub Title</source>
+        <target>Sub Title</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_item.tpl:113</note>
+      </trans-unit>
+      <trans-unit id="bc7e773b551c961da591dd45cd0efe80">
+        <source>Use icon</source>
+        <target>Use icon</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_item.tpl:142</note>
+      </trans-unit>
+      <trans-unit id="13f4586cfec9eaf06057d02c2038ffc1">
+        <source>Font-Awesome Icon</source>
+        <target>Font-Awesome Icon</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_item.tpl:153</note>
+      </trans-unit>
+      <trans-unit id="2f6623b19457ad3aac85cf108d8634dd">
+        <source>Image Icon</source>
+        <target>Image Icon</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_item.tpl:160</note>
+      </trans-unit>
+      <trans-unit id="d1fecf249376ef459f3c65c52dc1445a">
+        <source>Put class icon of Font-Awesome at :</source>
+        <target>Put class icon of Font-Awesome at :</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_item.tpl:156</note>
+      </trans-unit>
+      <trans-unit id="4f0d5f1f63014d34a61ac92a56a70b8a">
+        <source>Main link style</source>
+        <target>Main link style</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_item.tpl:172</note>
+      </trans-unit>
+      <trans-unit id="cb5feb1b7314637725a2e73bdc9f7295">
+        <source>Color</source>
+        <target>Color</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_item.tpl:250</note>
+      </trans-unit>
+      <trans-unit id="04893d0b051835db989645eabed0737e">
+        <source>Color hover</source>
+        <target>Color hover</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_item.tpl:185</note>
+      </trans-unit>
+      <trans-unit id="c4943062b634c56348c67fdebba808eb">
+        <source>Font size</source>
+        <target>Font size</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_item.tpl:266</note>
+      </trans-unit>
+      <trans-unit id="153ad58f26c6f1cc1ef7d6851c4d9c91">
+        <source>Line height</source>
+        <target>Line height</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_item.tpl:275</note>
+      </trans-unit>
+      <trans-unit id="3519bef066befd3d6488344798511dac">
+        <source>Text transform</source>
+        <target>Text transform</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_item.tpl:284</note>
+      </trans-unit>
+      <trans-unit id="3d79fb039236f3a1e8e45f1625f80aaf">
+        <source>Background hover</source>
+        <target>Background hover</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_item.tpl:230</note>
+      </trans-unit>
+      <trans-unit id="aec453e29262cc0478b48d668f4efe77">
+        <source>Subtitle style</source>
+        <target>Subtitle style</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_item.tpl:245</note>
+      </trans-unit>
+      <trans-unit id="b2550960ca4b4f608c0721a22d046311">
+        <source>Submenu type</source>
+        <target>Submenu type</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_item.tpl:297</note>
+      </trans-unit>
+      <trans-unit id="fde5020a5a97322bf5a7aee8174abbd8">
+        <source>Mega</source>
+        <target>Mega</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_item.tpl:300</note>
+      </trans-unit>
+      <trans-unit id="2896562fb4dc195047e6106cb5451998">
+        <source>Flyout</source>
+        <target>Flyout</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_item.tpl:301</note>
+      </trans-unit>
+      <trans-unit id="9111dd77d56ed38f1ed5083457b20b72">
+        <source>Flyout only is available when you select category in Type Link</source>
+        <target>Flyout only is available when you select category in Type Link</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_item.tpl:304</note>
+      </trans-unit>
+      <trans-unit id="4a769b9e560c7d8efed9e3009af2b6cb">
+        <source>Add specific class</source>
+        <target>Add specific class</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_item.tpl:308</note>
+      </trans-unit>
+      <trans-unit id="e5dc8e5afea0a065948622039358de37">
+        <source>New window</source>
+        <target>New window</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_item.tpl:314</note>
+      </trans-unit>
+      <trans-unit id="4d3d769b812b6faa6b76e1a8abaece2d">
+        <source>Active</source>
+        <target>Active</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_item.tpl:326</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_column.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="62d61d24fa6a09f9a5c7c645db9314b0">
+        <source><![CDATA[>>> If use Prestashop link and want to use Prestashop title, leave it empty.]]></source>
+        <target><![CDATA[>>> If use Prestashop link and want to use Prestashop title, leave it empty.]]></target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_column.tpl:78</note>
+      </trans-unit>
+      <trans-unit id="228d3085e8b4f09e3f68301a64656d59">
+        <source>Type Link</source>
+        <target>Type Link</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_column.tpl:82</note>
+      </trans-unit>
+      <trans-unit id="6adf97f83acf6453d4a6a4b1070f3754">
+        <source>None</source>
+        <target>None</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_column.tpl:87</note>
+      </trans-unit>
+      <trans-unit id="a7140e841df723ac623f174ba5aa088a">
+        <source>Custom link</source>
+        <target>Custom link</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_column.tpl:93</note>
+      </trans-unit>
+      <trans-unit id="67f40f26dd920c1bc067453f268c153a">
+        <source>Column settings</source>
+        <target>Column settings</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_column.tpl:26</note>
+      </trans-unit>
+      <trans-unit id="32954654ac8fe66a1d09be19001de2d4">
+        <source>Width</source>
+        <target>Width</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_column.tpl:33</note>
+      </trans-unit>
+      <trans-unit id="5d67c7597c1003db2c47ed87738568b8">
+        <source>Column title</source>
+        <target>Column title</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_column.tpl:52</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_row.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="2df2870c495a44b05a67ae059cebc214">
+        <source>Specific class</source>
+        <target>Specific class</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_row.tpl:33</note>
+      </trans-unit>
+      <trans-unit id="ea4788705e6873b424c65e91c2846b19">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_row.tpl:42</note>
+      </trans-unit>
+      <trans-unit id="fab26d73e2a5e75d86e9745c74bd969f">
+        <source>Row settings</source>
+        <target>Row settings</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\posmegamenu\views\templates\admin\menu_sub_row.tpl:26</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\possuggestcateproducts\views\templates\hook\categories-tree.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="c9cc8cce247e49bae79f15173ce97354">
+        <source>Save</source>
+        <target>Save</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\possuggestcateproducts\views\templates\hook\categories-tree.tpl:13</note>
+      </trans-unit>
+      <trans-unit id="99078a8f3786817fbaa593c08ff04a5d">
+        <source>Select categories</source>
+        <target>Select categories</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\possuggestcateproducts\views\templates\hook\categories-tree.tpl:5</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\possearchproducts\views\templates\front\possearch.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="62f5d708d6ad1fa1ddd9429a65cccbea">
+        <source>All categories</source>
+        <target>All categories</target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\possearchproducts\views\templates\front\possearch.tpl:35</note>
+      </trans-unit>
+      <trans-unit id="b6b8d7667b88cba3d1e5571b620bd5b0">
+        <source>Enter your search key ... </source>
+        <target>Enter your search key ... </target>
+        <note>Context:
+File: D:\Xampp\htdocs\pos_jena\themes\theme_jena2\modules\possearchproducts\views\templates\front\possearch.tpl:42</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

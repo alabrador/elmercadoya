@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin1988" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="5015f5f6af450ad9492bc74f1059244b">
+        <source>Filter By</source>
+        <target>Filtrar por</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2d0f6b8300be19cf35e89e66f0677f95">
+        <source>Add to cart</source>
+        <target>Agregar al carrito</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5a95a425f74314a96f13a2f136992178">
+        <source>Share</source>
+        <target>Compartir</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d7778d0c64b6ba21494c97f77a66885a">
+        <source>Filter</source>
+        <target>Filtrar</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c91e4ee170226d66e90f99ba917e4c20">
+        <source>Quick view</source>
+        <target>Vista rápida</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c61ab4204f572e9b3aa84a040e0dab31">
+        <source>View products</source>
+        <target>Ver producto</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="62a5e490880a92eef74f167d9dc6dca0">
+        <source>Hide</source>
+        <target>Ocultar</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="498f79c4c5bbde77f1bceb6c86fd0f6d">
+        <source>Show</source>
+        <target>Mostrar</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="146fede9860d7a432e7b758838db559b">
+        <source> + Add to cart</source>
+        <target> + Agregar al carrito</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="aa1411cc44ecfafbca0d71427fe3dc7a">
+        <source>Add to compare</source>
+        <target>Agregar para comparar</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d67850bd126f070221dcfd5fa6317043">
+        <source>Sign Up</source>
+        <target>Inscribirse</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

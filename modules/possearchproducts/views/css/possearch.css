@@ -1,0 +1,182 @@
+/* module search category */
+ #_desktop_search_category {
+		width: 545px;
+		border: 2px solid #d54343;
+		border-radius: 35px;
+		padding:0px;
+}
+ #_mobile_search_category {
+     display: inline-block;
+     width: 100%;
+     padding: 1px;
+     margin: 20px 0;
+	 border-radius:30px;
+}
+ #pos_search_top {
+     padding: 0;
+     position: relative;
+}
+ #pos_search_top .form_search {
+     padding: 0;
+     position: relative;
+     width: 100%;
+     float: left;
+     height: 45px;
+     color: #a4a4a4;
+	 background:#fff;
+	 border-radius:30px;
+}
+ #pos_search_top .form_search label {
+     display: none;
+}
+ #pos_search_top .form_search .search-block {
+     height: 45x;
+     line-height: 45px;
+}
+ #pos_search_top .form_search .form-control {
+     padding: 10px 10px 10px 20px;
+     width:55%;
+     height: 45px;
+     font-size: 14px;
+     background: #ffffff;
+     color: #a4a4a4;
+     border: none;
+	 border-radius:30px 0 0 30px;
+}
+ #pos_search_top .form_search .form-control::-moz-placeholder {
+     color: #a4a4a4;
+}
+ #pos_search_top .form_search .form-control::-webkit-input-placeholder {
+     color: #a4a4a4;
+}
+ #pos_search_top .form_search .form-control:-ms-input-placeholder {
+     color: #a4a4a4;
+}
+ #pos_search_top .form_search .form-control:focus {
+     box-shadow: none;
+}
+ @media (max-width: 479px) {
+     #pos_search_top .form_search .form-control {
+         padding-right: 0;
+    }
+}
+ #pos_search_top .form_search .search_submit {
+     position: absolute;
+     top: 0;
+     right: -1px;
+     height: 45px;
+     line-height: 45px;
+     text-align: center;
+     width: 65px;
+     text-align: center;
+     color: #fff;
+     background:#253237;
+	 border-radius:0 30px 30px 0;
+     padding: 0;
+     border: 0;
+     -webkit-transition: all 300ms linear;
+     -moz-transition: all 300ms linear;
+     -ms-transition: all 300ms linear;
+     -o-transition: all 300ms linear;
+     transition: all 300ms linear;
+}
+ #pos_search_top .form_search .search_submit i {
+     font-size: 20px;
+     display: block;
+     line-height: 45px;
+}
+ #pos_search_top .form_search .search_submit:hover {
+     -webkit-transition: all 300ms linear;
+     -moz-transition: all 300ms linear;
+     -ms-transition: all 300ms linear;
+     -o-transition: all 300ms linear;
+     transition: all 300ms linear;
+	 color:#d54343;
+}
+ #pos_search_top .form_search .form-group {
+     position: relative;
+	 float:right;
+}
+ #pos_search_top .form_search .form-group .bootstrap-select {
+     padding-right:35px;
+     line-height: 45px;
+     margin: 0;
+     border: 0;
+	 color: #253237;
+     background: #fff;
+	 border-radius: 0 30px 30px 0;
+     -webkit-user-select: none;
+     -moz-user-select: -moz-none;
+     -ms-user-select: none;
+     user-select: none;
+     -webkit-appearance: none;
+     -moz-appearance: none;
+     appearance: none;
+     background: url(../../img/option_search.png) no-repeat 55% 54% white;
+	 
+}
+ @media (min-width: 768px) and (max-width: 991px){
+	#pos_search_top .form_search .form-group .bootstrap-select {
+		padding-right:64px;	
+	}
+	#pos_search_top .form_search .form-control{
+		width:65%;
+	}
+ }
+ #pos_search_top .form_search.show-categories .form-control {
+  
+}
+ #pos_search_top .form_search.show-categories .form-group:after {
+     content: "";
+     width: 1px;
+     height: 16px;
+     background: #e1e1e1;
+     position: absolute;
+     top: 50%;
+     right: -10px;
+     margin-top: -8px;
+	 display:none;
+}
+ @media (max-width: 480px) {
+     #pos_search_top .form_search .form-control {
+         font-size: 10px;
+         padding: 0 50px 0 10px;
+    }
+     #pos_search_top .form_search .form-group {
+         width: 110px;
+    }
+     #pos_search_top .form_search .form-group .bootstrap-select {
+         width: 110px;
+         font-size: 10px;
+         padding: 0 10px;
+    }
+     #pos_search_top .form_search.show-categories .form-control {
+         padding-left: 20px;
+    }
+     #pos_search_top .form_search.show-categories .form-group:after {
+         right: 0;
+    }
+}
+.ui-corner-all.ui-widget-content {
+     max-height: 380px;
+     overflow: auto;
+     border: 1px solid #ebebeb;
+	 padding:10px;
+}
+.ui-corner-all.ui-widget-content li{
+    margin-bottom:15px;
+}
+.ui-corner-all.ui-widget-content li:last-child{
+    margin-bottom:0; 
+}
+.ui-corner-all.ui-widget-content img {
+    float:left;
+	width:60px;
+}
+.product {
+	display:block;
+	overflow:hidden; 
+	padding:15px 20px;
+	max-width:250px; 
+}
+/* end module search category */
