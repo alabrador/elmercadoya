@@ -22,9 +22,10 @@
  * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License 3.0 (AFL-3.0)
  * International Registered Trademark & Property of PrestaShop SA
  *}
-{* <section class="categoryproducts clearfix">
+{* 
+<section class="categoryproducts clearfix">
 	<div class="pos_title">
-		{*<span>{l s='Awesome Shop' d='Shop.Theme.Catalog'}</span>*}
+		<span>{l s='Awesome Shop' d='Shop.Theme.Catalog'}</span>
 		<h2>
 		{if $products|@count == 1}
 		{l s='%s other product in the same category:' sprintf=[$products|@count] d='Shop.Theme.Catalog'}
@@ -42,4 +43,5 @@
 			{/foreach}
 		</div>
 	</div>
-</section> *}
+</section> 
+*}
